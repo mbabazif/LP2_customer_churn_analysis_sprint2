@@ -77,7 +77,7 @@ cd project-name
 pip install -r requirements.txt
 
 ## Images
-/home/florence/Documents/LP2_customer_churn_analysis_sprint2/img/Average Total Charges_by_charn_Status.png
+![churn_rate_by_tenure](https://github.com/mbabazif/LP2_customer_churn_analysis_sprint2/assets/45567777/533b11cc-af79-40dd-9ded-1d3746ead662)
 ## Authors 
 Florence Mbabazi
 
