@@ -78,6 +78,9 @@ pip install -r requirements.txt
 
 ## Images
 ![churn_rate_by_tenure](https://github.com/mbabazif/LP2_customer_churn_analysis_sprint2/assets/45567777/533b11cc-af79-40dd-9ded-1d3746ead662)
+
+![Average Total Charges_by_charn_Status](https://github.com/mbabazif/LP2_customer_churn_analysis_sprint2/assets/45567777/b2568d4f-ec6e-471d-a0f0-9ce1d7ff6c41)
+
 ## Authors 
 Florence Mbabazi
 
