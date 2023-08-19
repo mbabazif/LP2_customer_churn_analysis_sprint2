@@ -50,16 +50,6 @@ TotalCharges: Total charges incurred by the customer.
 
 Churn: Whether the customer churned (Yes) or not (No).
 
-## Usage
-
-Clone the repository.
-
-Install the necessary libraries listed in the requirements file.
-
-Run the provided scripts to preprocess the data and perform the machine learning tasks.
-
-Examine the results and analyses in the notebook or scripts.
-
 ## Goals
 #### The primary objectives of this project are:
 
@@ -69,18 +59,21 @@ Identify key indicators that significantly influence customer churn.
 
 Formulate effective strategies for customer retention based on the analysis.
 
-## Setup / Config
-git clone https://github.com/mbabazif/LP2_customer_churn_analysis_sprint2.git
+## Usage
 
-cd project-name
+Clone the repository.
 
-pip install -r requirements.txt
+Install the necessary libraries listed in the requirements file.
+
+Run the provided scripts to preprocess the data and perform the machine-learning tasks.
+
+Examine the results and analyses in the notebook or scripts.
 
 ## Images
 ![churn_rate_by_tenure](https://github.com/mbabazif/LP2_customer_churn_analysis_sprint2/assets/45567777/533b11cc-af79-40dd-9ded-1d3746ead662)
 
 ![Average Total Charges_by_charn_Status](https://github.com/mbabazif/LP2_customer_churn_analysis_sprint2/assets/45567777/b2568d4f-ec6e-471d-a0f0-9ce1d7ff6c41)
 
-## Authors 
+## Author 
 Florence Mbabazi
 
