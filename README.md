@@ -79,6 +79,6 @@ Examine the results and analyses in the notebook or scripts.
 ![Average Total Charges_by_charn_Status](https://github.com/mbabazif/LP2_customer_churn_analysis_sprint2/assets/45567777/b2568d4f-ec6e-471d-a0f0-9ce1d7ff6c41)
 
 ## Author 
->>>>>>> 14830477dd6c680435839d752f4c15546cf414d1
+
 Florence Mbabazi
 
