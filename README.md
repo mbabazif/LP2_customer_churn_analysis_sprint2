@@ -1,57 +1,17 @@
 # Customer Churn Analysis and Prediction using Classification
 
+ | Project's Name | Published Article  | Deployed PowerBi |
+|:--------------:|:--------------:|:--------------:|
+| LP2(Customer Churn Analysis)  |[Project Article](https://www.linkedin.com/pulse/customer-churn-analysis-prediction-florence-mbabazi) |    [Power BI Dashboard](https://app.powerbi.com/groups/me/reports/0525be86-1f5c-4cdb-bdd4-73bf29325a61/ReportSection?experience=power-bi)|
+
+## Project Overview
 Customer attrition, often referred to as customer churn or turnover, is a critical concern for businesses as it represents the percentage of customers who have stopped using their products or services within a specific timeframe. Accurately identifying why and when customers leave can significantly impact an organization's strategy for customer retention.
 
 
-## Project Overview
+## Project objective
 In this project, we aim to predict customer churn and understand the key indicators of churn by analyzing a dataset containing various customer attributes. By employing machine learning techniques, we'll determine the likelihood of a customer leaving the organization and explore effective retention strategies to mitigate this challenge.
 
-## Dataset Description
-The dataset comprises the following columns:
-
-Gender: Male or female classification of the customer.
-
-SeniorCitizen: Binary indicator of whether the customer is a senior citizen.
-
-Partner: Whether the customer has a partner or not (Yes/No).
-
-Dependents: Whether the customer has dependents or not (Yes/No).
-
-Tenure: Duration in months the customer has stayed with the company.
-
-Phone Service: Availability of phone service for the customer (Yes/No).
-
-MultipleLines: Presence of multiple phone lines for the customer (Yes/No).
-
-InternetService: Customer's internet service provider (DSL, Fiber Optic, No internet service).
-
-OnlineSecurity: Availability of online security (Yes/No/No internet service).
-
-OnlineBackup: Availability of online backup (Yes/No/No internet service).
-
-DeviceProtection: Availability of device protection (Yes/No/No internet service).
-
-TechSupport: Availability of tech support (Yes/No/No internet service).
-
-StreamingTV: Availability of streaming TV (Yes/No/No internet service).
-
-StreamingMovies: Availability of streaming movies (Yes/No/No internet service).
-
-Contract: Customer's contract term (Month-to-Month, One year, Two years).
-
-PaperlessBilling: Usage of paperless billing (Yes/No).
-
-Payment Method: Customer's payment method (Electronic check, Mailed check, Bank transfer (automatic), 
-Credit card (automatic)).
-
-MonthlyCharges: Monthly charges for the customer.
-
-TotalCharges: Total charges incurred by the customer.
-
-Churn: Whether the customer churned (Yes) or not (No).
-
 ## Goals
-#### The primary objectives of this project are:
 
 Predict customer churn based on the provided attributes.
 
@@ -69,11 +29,11 @@ Run the provided scripts to preprocess the data and perform the machine-learning
 
 Examine the results and analyses in the notebook or scripts.
 
-## Images
+<!-- ## Images -->
 
-![churn_rate_by_tenure](https://github.com/mbabazif/LP2_customer_churn_analysis_sprint2/assets/45567777/533b11cc-af79-40dd-9ded-1d3746ead662)
+<!-- ![churn_rate_by_tenure](https://github.com/mbabazif/LP2_customer_churn_analysis_sprint2/assets/45567777/533b11cc-af79-40dd-9ded-1d3746ead662)
 
-![Average Total Charges_by_charn_Status](https://github.com/mbabazif/LP2_customer_churn_analysis_sprint2/assets/45567777/b2568d4f-ec6e-471d-a0f0-9ce1d7ff6c41)
+![Average Total Charges_by_charn_Status](https://github.com/mbabazif/LP2_customer_churn_analysis_sprint2/assets/45567777/b2568d4f-ec6e-471d-a0f0-9ce1d7ff6c41) -->
 
 ## Author 
 
